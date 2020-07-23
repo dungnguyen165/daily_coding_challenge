@@ -1,6 +1,8 @@
 
 // 2020 July 21 - Dung Nguyen
 
+//Problem #479 [Easy]
+
 //This problem was asked by Microsoft.
 //
 //Given a number in the form of a list of digits, return all possible permutations.
